@@ -42,5 +42,9 @@
 36. [iOS 持续集成系列 - 自动化 Code Review](http://www.cocoachina.com/ios/20161201/18185.html)
 37. [为什么有的人工作多年还是老样子？](http://www.admin10000.com/document/10443.html)
 
-######免费的编程书籍
+######编程书单
 1. [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+2. [【程序员图书馆】那些技术大牛推荐的书单——收藏合集](http://www.imooc.com/article/2622)
+
+######编程站点
+1. [【码农必收】史上最全学习资料和免费网站汇总](http://www.imooc.com/article/2880)
