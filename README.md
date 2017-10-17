@@ -45,6 +45,7 @@
 ###### 编程书单
 1. [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 2. [【程序员图书馆】那些技术大牛推荐的书单——收藏合集](http://www.imooc.com/article/2622)
+3. [程序员必读书单 1.0](http://lucida.me/blog/developer-reading-list/)
 
 ###### 编程站点
 1. [【码农必收】史上最全学习资料和免费网站汇总](http://www.imooc.com/article/2880)
