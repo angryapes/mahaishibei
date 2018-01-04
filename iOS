@@ -5,5 +5,9 @@
 
 
 
+
+###持续集成
+1. [关于持续集成打包平台的Jenkins配置和构建脚本实现细节](http://debugtalk.com/post/iOS-Android-Packing-with-Jenkins-details/)
+
 ###逆向
 1. [iOS自动抢红包插件(支持后台和锁屏下抢红包)](http://iosre.com/t/ios/10563)
